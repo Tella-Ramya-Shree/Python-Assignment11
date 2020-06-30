@@ -7,7 +7,7 @@ print("Sum of all elements in given list: ", total)
 #Output:-
 #Sum of all elements in given list:  66
 
-#Write a python program to multiplies all the items in the list
+#2.Write a python program to multiplies all the items in the list
 total = 1
 list2 = [1,6,9,4,2,5,3]  
 for ele in range(0, len(list2)): 
